@@ -1,0 +1,9 @@
+[
+    {
+        "TELEFONE":11967489467,
+        "TM_EMPRESA":200,
+        "EMAIL_CLIE":"joaopedro@gmail.com",
+        "NM_CLIE":"Joao Pedro",
+        "FK_USUARIO":2
+    }
+]
